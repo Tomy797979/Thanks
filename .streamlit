@@ -1,8 +1,0 @@
-[server]
-maxUploadSize = 200
-headless = true
-enableCORS = false
-
-[theme]
-base = "dark"
-primaryColor = "#7c6af7"
